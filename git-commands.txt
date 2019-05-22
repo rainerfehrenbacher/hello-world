@@ -1,0 +1,3 @@
+git branch devenv -- creates new branch
+git checkout devenv -- changes over to new branch
+git push origin devenv - pushes new branch to github
